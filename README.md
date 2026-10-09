@@ -12,7 +12,7 @@ What counts as progress, what is out of scope, and what standard of evidence the
 
 ## How to contribute
 
-**To ask a question,** open an issue with the *Question* form and state the question.
+**To pose a problem,** open an issue with the *Problem* form, give it a descriptive title and a one-sentence statement, and optionally add motivation and further details.
 
 **To record a claim,** open an issue with the *Claim* form and write the claim as its title: one statement that someone else could check. An approach that did not work is a claim too, and recording it saves the next person the trouble. Give the evidence in the issue, or link to a pull request with the code, data or proof.
 
